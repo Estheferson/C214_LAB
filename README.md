@@ -2,7 +2,7 @@
 Repositório com os códigos realizados para os exercícios já entregues nas aulas e os futuros exercícios.
 
 ❗ Requisitos
- Orientação a objetos (React)
+ * Orientação a objetos (React)
  Realizar um CRUD
  Permanência de dados (MongoDB Atlas)
  Ferramenta de controle de versão (Github)
