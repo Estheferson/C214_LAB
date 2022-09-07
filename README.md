@@ -19,7 +19,7 @@ https://github.com/Estheferson/C214_LAB.git
 - npm 
 
 ### :computer: Descricao Entrega Aula - 02:
-<p>Mini projeto utilizando conceitos de JavaScript e uma breve relembrada sobre programação orientada a objetos, relacionado ao descrito em Aula02</p>
+<p>Mini projeto utilizando conceitos de JavaScript e uma breve relembrada sobre programação orientada a objetos.</p>
 
 ## ✒️ Autor
 
