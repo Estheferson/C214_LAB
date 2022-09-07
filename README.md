@@ -8,9 +8,8 @@ Repositório com os códigos realizados para os exercícios já entregues nas au
 
 ## 🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
+```https://github.com/Estheferson/C214_LAB.git
 ```
-https://github.com/Estheferson/C214_LAB.git
-
 ## 📋 Pré-requisitos para execução
 - IDE para execução de códigos Javascript, HTML e CSS (ex: Visual Studio Code)
 - React v17.0
