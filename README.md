@@ -8,15 +8,15 @@ Repositório com os códigos realizados para os exercícios já entregues nas au
  Ferramenta de controle de versão (Github)
  Gerenciamento de dependências (npm)
  Testes de unidade
-🚀 Começando
 
+🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
 
-https://github.com/LuisGustaavo/Laboratorio-C214
 📋 Pré-requisitos para execução
 IDE para execução de códigos Javascript, HTML e CSS (ex: Visual Studio Code)
 React v17.0
 npm
+
 💻 Descricao Aula02:
 Mini projeto utilizando conceitos de JavaScript e uma breve relembrada sobre programação orientada a objetos (Proposto pela monitora)
 
@@ -33,4 +33,3 @@ Mini projeto utilizando conceitos de JavaScript e aplicações de conceito de No
 Mini projeto utilizando conceitos de Api rest CRUD basico
 
 ✒️ Autor
-Luis Gustavo Pereira Barbosa - Luis Gustavo
