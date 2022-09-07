@@ -18,21 +18,9 @@ https://github.com/Estheferson/C214_LAB.git
 - React v17.0
 - npm 
 
-### :computer: Descricao Aula02:
-<p>Mini projeto utilizando conceitos de JavaScript e uma breve relembrada sobre programação orientada a objetos (Proposto pela monitora)</p>
-
-### :computer: Descricao Aula03 - Codigos:
-<p>Mini projeto utilizando conceitos de JavaScript e aplicações de conceito de Node(Proposto pela monitora)</p>
-
-### :computer: Descricao EntregaAula2:
+### :computer: Descricao Entrega Aula - 02:
 <p>Mini projeto utilizando conceitos de JavaScript e uma breve relembrada sobre programação orientada a objetos, relacionado ao descrito em Aula02</p>
-
-### :computer: Descricao EntregaAula3:
-<p>Mini projeto utilizando conceitos de JavaScript e aplicações de conceito de Node, relacionado ao descrito em Aula03 - Codigos</p>
-
-### :computer: Descricao Aula 06:
-<p>Mini projeto utilizando conceitos de Api rest CRUD basico</p>
 
 ## ✒️ Autor
 
-* **Luis Gustavo Pereira Barbosa** - [Luis Gustavo](https://github.com/LuisGustaavo)
+* **Estheferson Matheus Galvão Ribeiro** - [Estheferson](https://github.com/Estheferson)
