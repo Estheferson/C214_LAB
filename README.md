@@ -2,11 +2,11 @@
 Repositório com os códigos realizados para os exercícios já entregues nas aulas e os futuros exercícios.
 
 ### ❗ Requisitos 
-- [x] Orientação a objetos (React)
-- [x] Realizar um CRUD
-- [x] Ferramenta de controle de versão (Github)
-- [x] Gerenciamento de dependências (npm)
-- [x] Testes de unidade
+- Orientação a objetos (React)
+- Realizar um CRUD
+- Ferramenta de controle de versão (Github)
+- Gerenciamento de dependências (npm)
+- Testes de unidade
 
 ### 🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
