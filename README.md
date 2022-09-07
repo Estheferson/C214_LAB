@@ -1,13 +1,10 @@
 # C214_LAB
 Repositório com os códigos realizados para os exercícios já entregues nas aulas e os futuros exercícios.
 
-❗ Requisitos
+## ❗ Requisitos
  * Orientação a objetos (React)
- Realizar um CRUD
- Permanência de dados (MongoDB Atlas)
- Ferramenta de controle de versão (Github)
- Gerenciamento de dependências (npm)
- Testes de unidade
+ *Ferramenta de controle de versão (Github)
+ * Testes de unidade
 
 🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
