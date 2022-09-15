@@ -1,7 +1,7 @@
 # C214_LAB
 Repositório com os códigos realizados para os exercícios já entregues nas aulas e os futuros exercícios.
 
-### ❗ Requisitos 
+## ❗ Requisitos 
 - Orientação a objetos (React)
 - Realizar um CRUD
 - Ferramenta de controle de versão (Github)
