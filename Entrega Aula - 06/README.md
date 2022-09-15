@@ -10,10 +10,10 @@ Utilizando os conhecimentos adquiridos nas aulas anteriores, crie no mínimo 2 A
 - O projeto deve ser colocado no GitHub e deve conter um README.
 - Lib Mongoose: mongoosejs.com
 
-• Comandos importantes e necessários:
-npm install --save express
-npm install --save cors
-npm install --save http-status-codes
-npm install --save validate.js
-npm install --save moongose
-npm install --save uuid
+Comandos importantes e necessários:
+- npm install --save express
+- npm install --save cors
+- npm install --save http-status-codes
+- npm install --save validate.js
+- npm install --save moongose
+- npm install --save uuid
