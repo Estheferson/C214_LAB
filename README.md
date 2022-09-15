@@ -9,7 +9,7 @@ Repositório com os códigos realizados para os exercícios já entregues nas au
 - Testes de unidade
 
 ## 🚀 Começando
-Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina,clone o repositório em uma pasta na sua máquina:
+Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 ```
 https://github.com/Estheferson/C214_LAB.git
 ```
