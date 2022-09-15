@@ -1,7 +1,7 @@
-### :computer: Descricao Entrega Aula - 06:
+## :computer: Descricao Entrega Aula - 06:
 <p>Criação de uma API.</p>
 
-### Descrição do exercício:
+## Descrição do exercício:
 
 Utilizando os conhecimentos adquiridos nas aulas anteriores, crie no mínimo 2 APIs REST de um CRUD básico de filme. Os parâmetros a serem salvos devem ser decididos por vocês (deve conter no mínimo 4 parâmetros, como por exemplo: nome, produtora, atores, ano). Outros requisitos importantes:
 
