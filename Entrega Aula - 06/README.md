@@ -3,7 +3,7 @@
 
 ### Descrição do exercício:
 
-* Utilizando os conhecimentos adquiridos nas aulas anteriores, crie no mínimo 2 APIs REST de um CRUD básico de filme. Os parâmetros a serem salvos devem ser decididos por vocês (deve conter no mínimo 4 parâmetros, como por exemplo: nome, produtora, atores, ano). Outros requisitos importantes:
+Utilizando os conhecimentos adquiridos nas aulas anteriores, crie no mínimo 2 APIs REST de um CRUD básico de filme. Os parâmetros a serem salvos devem ser decididos por vocês (deve conter no mínimo 4 parâmetros, como por exemplo: nome, produtora, atores, ano). Outros requisitos importantes:
 
 - Você pode escolher utilizar o banco de dados que quiser.
 - Deve haver validação dos dados.
