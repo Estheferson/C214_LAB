@@ -18,10 +18,10 @@ https://github.com/Estheferson/C214_LAB.git
 - React v17.0
 - npm 
 
-## :computer: Descricao Entrega Aula - 02:
+## :computer: Descricao Entrega Aula - 02
 <p>Mini projeto utilizando conceitos de JavaScript e uma breve relembrada sobre programação orientada a objetos.</p>
 
-## :computer: Descricao Entrega Aula - 06:
+## :computer: Descricao Entrega Aula - 06
 <p>Criação de uma API.</p>
 
 ## ✒️ Autor
