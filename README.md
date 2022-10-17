@@ -27,6 +27,9 @@ https://github.com/Estheferson/C214_LAB.git
 ## :computer: Descricao Entrega Aula - 06
 <p>Criação de uma API.</p>
 
+## :computer: Descricao Entrega Aula - 08/09
+<p>Teste Mock.</p>
+
 ## ✒️ Autor
 
 * **Estheferson Matheus Galvão Ribeiro** - [Estheferson](https://github.com/Estheferson)
