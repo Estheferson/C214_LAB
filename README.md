@@ -30,6 +30,9 @@ https://github.com/Estheferson/C214_LAB.git
 ## :computer: Descricao Entrega Aula - 08/09
 <p>Teste Mock.</p>
 
+## :computer: Descricao Entrega Aula - 10
+<p>GitHub Actions.</p>
+
 ## ✒️ Autor
 
 * **Estheferson Matheus Galvão Ribeiro** - [Estheferson](https://github.com/Estheferson)
