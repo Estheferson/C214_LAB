@@ -33,6 +33,12 @@ https://github.com/Estheferson/C214_LAB.git
 ## :computer: Descricao Entrega Aula - 10
 <p>GitHub Actions.</p>
 
+## :computer: Descricao Entrega Aula - 11
+<p>Design Pattern.</p>
+
+## :computer: Descricao Entrega Aulas - 12 e 13
+<p>React.</p>
+
 ## ✒️ Autor
 
 * **Estheferson Matheus Galvão Ribeiro** - [Estheferson](https://github.com/Estheferson)
