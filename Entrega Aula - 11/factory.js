@@ -1,7 +1,7 @@
-const Pessoa = (name, idade) => ({
-    name,
+const Pessoa = (nome, idade) => ({
+    nome,
     idade,
-    getData: () => ({name, idade})
+    getData: () => ({nome, idade})
 })
 
 const pessoa = Pessoa ('Estheferson', 22)
